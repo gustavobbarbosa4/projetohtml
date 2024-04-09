@@ -9,14 +9,19 @@ h4{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .biografia{
-    background-color: gray;
-    border-top-right-radius: 2cap;
-    border-top-left-radius: 2cap;
-    border-bottom-left-radius: 2cap;
-    border-bottom-right-radius: 2cap;
+    background-color: rgb(153, 153, 153);
+    border-top-right-radius: 1cap;
+    border-top-left-radius: 1cap;
+    border-bottom-left-radius: 1cap;
+    border-bottom-right-radius: 1cap;
+    border-right-width: 1000cap;
+    background-position: 300px;
+    font-size: 25px;
 }
 .eutentei{
-    font-size: 150  px;
+    font-size: 100px;
     text-align: center;
 }
-
+body{
+   background-color: whitesmoke; 
+}
