@@ -10,13 +10,12 @@ h4{
 }
 .biografia{
     background-color: rgb(153, 153, 153);
-    border-top-right-radius: 1cap;
-    border-top-left-radius: 1cap;
-    border-bottom-left-radius: 1cap;
-    border-bottom-right-radius: 1cap;
-    border-right-width: 1000cap;
-    background-position: 300px;
     font-size: 25px;
+        width: 500px; 
+        height: 350px; 
+        overflow: hidden;
+    
+    
 }
 .eutentei{
     font-size: 100px;
@@ -25,3 +24,4 @@ h4{
 body{
    background-color: whitesmoke; 
 }
+
