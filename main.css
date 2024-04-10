@@ -11,7 +11,7 @@ h4{
 .biografia{
     background-color: rgb(153, 153, 153);
     font-size: 25px;
-        width: 500px; 
+        width: 450px; 
         height: 350px; 
         overflow: hidden;
     
@@ -23,5 +23,8 @@ h4{
 }
 body{
    background-color: whitesmoke; 
+}
+body{
+    text-justify: calc(100px);
 }
 
