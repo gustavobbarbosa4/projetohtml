@@ -14,8 +14,6 @@ h4{
         width: 450px; 
         height: 350px; 
         overflow: hidden;
-    
-    
 }
 .eutentei{
     font-size: 100px;
@@ -24,7 +22,13 @@ h4{
 body{
    background-color: whitesmoke; 
 }
-body{
-    text-justify: calc(100px);
+.chico{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    margin: 2%;
+    padding: 0%;
 }
+
+
 
